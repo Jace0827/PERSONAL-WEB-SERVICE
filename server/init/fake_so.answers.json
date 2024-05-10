@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "663cf63690ff0d6010b74f92"
+  },
+  "text": "Test Answer Text 1",
+  "answeredBy": "Tester Name",
+  "answeredUserId": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "askedUserId": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "answeredDateTime": {
+    "$date": "2024-05-09T16:13:42.156Z"
+  },
+  "questionIds": {
+    "$oid": "663cf5ed90ff0d6010b74f62"
+  },
+  "commentIds": [
+    {
+      "$oid": "663cf67890ff0d6010b74fe6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-09T16:13:42.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:14:48.856Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "663cf63c90ff0d6010b74fa6"
+  },
+  "text": "Test Answer Text 2",
+  "answeredBy": "Tester Name",
+  "answeredUserId": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "askedUserId": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "answeredDateTime": {
+    "$date": "2024-05-09T16:13:48.193Z"
+  },
+  "questionIds": {
+    "$oid": "663cf5ed90ff0d6010b74f62"
+  },
+  "commentIds": [],
+  "createdAt": {
+    "$date": "2024-05-09T16:13:48.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:13:48.193Z"
+  },
+  "__v": 0
+}]

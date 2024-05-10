@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "663cf65690ff0d6010b74fda"
+  },
+  "text": "Test Comment 1",
+  "commentedBy": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "commentedOn": {
+    "$oid": "663cf5ed90ff0d6010b74f62"
+  },
+  "onModel": "Question",
+  "upvotes": 0,
+  "createdAt": {
+    "$date": "2024-05-09T16:14:14.668Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:14:14.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf65f90ff0d6010b74fe0"
+  },
+  "text": "Test Comment 2",
+  "commentedBy": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "commentedOn": {
+    "$oid": "663cf5ed90ff0d6010b74f62"
+  },
+  "onModel": "Question",
+  "upvotes": 0,
+  "createdAt": {
+    "$date": "2024-05-09T16:14:23.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:14:23.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf67890ff0d6010b74fe6"
+  },
+  "text": "Test Comment 3",
+  "commentedBy": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "commentedOn": {
+    "$oid": "663cf63690ff0d6010b74f92"
+  },
+  "onModel": "Answer",
+  "upvotes": 0,
+  "createdAt": {
+    "$date": "2024-05-09T16:14:48.855Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:14:48.855Z"
+  },
+  "__v": 0
+}]

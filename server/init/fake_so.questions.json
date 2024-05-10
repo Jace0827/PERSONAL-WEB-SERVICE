@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "663cf5ed90ff0d6010b74f62"
+  },
+  "title": "Test Question Title 1",
+  "summary": "Test Question Summary 1",
+  "text": "Test Question Text 1",
+  "tagIds": [
+    {
+      "$oid": "663cf5ed90ff0d6010b74f5b"
+    },
+    {
+      "$oid": "663cf5ed90ff0d6010b74f5d"
+    }
+  ],
+  "answerIds": [
+    {
+      "$oid": "663cf63690ff0d6010b74f92"
+    },
+    {
+      "$oid": "663cf63c90ff0d6010b74fa6"
+    }
+  ],
+  "askedBy": "Tester Name",
+  "askedUserId": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "askDateTime": {
+    "$date": "2024-05-09T16:12:29.661Z"
+  },
+  "commentIds": [
+    {
+      "$oid": "663cf65690ff0d6010b74fda"
+    },
+    {
+      "$oid": "663cf65f90ff0d6010b74fe0"
+    }
+  ],
+  "views": 4,
+  "upvotes": 0,
+  "downvotes": 0,
+  "createdAt": {
+    "$date": "2024-05-09T16:12:29.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:14:23.878Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "663cf61890ff0d6010b74f74"
+  },
+  "title": "Test Question Title 2",
+  "summary": "Test Question Summary 2",
+  "text": "Test Question Text 2",
+  "tagIds": [
+    {
+      "$oid": "663cf5ed90ff0d6010b74f5d"
+    },
+    {
+      "$oid": "663cf61890ff0d6010b74f70"
+    }
+  ],
+  "answerIds": [],
+  "askedBy": "Tester Name",
+  "askedUserId": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "askDateTime": {
+    "$date": "2024-05-09T16:13:12.660Z"
+  },
+  "commentIds": [],
+  "views": 1,
+  "upvotes": 0,
+  "downvotes": 0,
+  "createdAt": {
+    "$date": "2024-05-09T16:13:12.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:14:01.238Z"
+  },
+  "__v": 0
+}]

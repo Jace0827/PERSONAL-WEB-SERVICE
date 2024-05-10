@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "663cf5ed90ff0d6010b74f5b"
+  },
+  "name": "testTag1",
+  "createdBy": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T16:12:29.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:12:29.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf5ed90ff0d6010b74f5d"
+  },
+  "name": "testTag2",
+  "createdBy": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T16:12:29.653Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:12:29.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf61890ff0d6010b74f70"
+  },
+  "name": "testTag3",
+  "createdBy": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "createdAt": {
+    "$date": "2024-05-09T16:13:12.656Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:13:12.656Z"
+  },
+  "__v": 0
+}]

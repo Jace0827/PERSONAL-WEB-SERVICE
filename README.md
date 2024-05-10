@@ -1,0 +1,9 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/tRxoBzS5)
+Add design docs in *images/*
+
+## Instructions to setup and run project
+
+initialize to 'node server/init mongodb://127.0.0.1:27017/fake_so "Admin Account anyidea"'
+***Admin account***
+email:      admin@cse316.com
+password:   anyidea

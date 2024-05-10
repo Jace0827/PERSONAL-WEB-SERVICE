@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "663cf53890ff0d6010b74f3e"
+  },
+  "username": "Admin Account",
+  "email": "admin@cse316.com",
+  "password": "$2b$10$N7/e8GJtErzUOCv8ZZFKAuMtQiq95y5ZM7hdiO7bFsjEsy0sQquDK",
+  "reputation": 0,
+  "questionIds": [],
+  "answerIds": [],
+  "commentIds": [],
+  "tagIds": [],
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-05-09T16:09:28.269Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:09:28.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663cf55e90ff0d6010b74f40"
+  },
+  "username": "Tester Name",
+  "email": "tester@gmail.com",
+  "password": "$2b$10$Pjo1mQK/z/urYWgYgsNOzeI5dRSUzt8kIqTbb23BPLMPyCLN3RUca",
+  "reputation": 100,
+  "questionIds": [
+    {
+      "$oid": "663cf5ed90ff0d6010b74f62"
+    },
+    {
+      "$oid": "663cf61890ff0d6010b74f74"
+    }
+  ],
+  "answerIds": [],
+  "commentIds": [
+    {
+      "$oid": "663cf65690ff0d6010b74fda"
+    },
+    {
+      "$oid": "663cf65f90ff0d6010b74fe0"
+    },
+    {
+      "$oid": "663cf67890ff0d6010b74fe6"
+    }
+  ],
+  "tagIds": [
+    {
+      "$oid": "663cf5ed90ff0d6010b74f5b"
+    },
+    {
+      "$oid": "663cf5ed90ff0d6010b74f5d"
+    },
+    {
+      "$oid": "663cf61890ff0d6010b74f70"
+    }
+  ],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-05-09T16:10:06.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T16:14:48.854Z"
+  },
+  "__v": 3
+}]
